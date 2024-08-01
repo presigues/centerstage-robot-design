@@ -9,8 +9,8 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'full assembly.stp',
-/* time_stamp */ '2024-08-01T14:14:30-04:00',
+/* name */ 'Assembly1.stp',
+/* time_stamp */ '2024-08-01T14:14:13-04:00',
 /* author */ ('Preston'),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v19.2',
